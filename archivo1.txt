@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Cambio en TextoA
-Cambio en TextoB
-=======
-Cambio en TextoBb
->>>>>>> TextoB
+
+B
